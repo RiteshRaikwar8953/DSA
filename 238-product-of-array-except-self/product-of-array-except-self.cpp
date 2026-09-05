@@ -21,8 +21,8 @@ public:
         }
         //answer array
         for(int i=0 ; i<n ;i++){
-            ans[i] = pre[i] * suf[i];
+            pre[i]*= suf[i];
         }
-        return ans;
+        return pre;
     }
 };
