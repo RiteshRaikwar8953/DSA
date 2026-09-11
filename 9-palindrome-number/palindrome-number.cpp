@@ -1,17 +1,13 @@
 class Solution {
 public:
 bool isPalindrome(int x) {
-    // Negative numbers are not palindromes
     if (x < 0) return false;
-    
-    long long rev = 0; // Use long long to prevent overflow during reversal
-    int original = x;  // Save the original value
-    
+    long long rev = 0;
+    int original = x; 
     while (x > 0) {
         rev = rev * 10 + (x % 10);
-        x /= 10; // Fixed: update x
+        x /= 10;
     }
-    
-    return original == rev;
+    return (original == rev) ;
 }
 };
