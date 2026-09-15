@@ -1,21 +1,30 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        int left = 0, zeroCount = 0, maxLen = 0;
-        for (int right = 0; right < nums.size(); right++) {
-            if (nums[right] == 0) {
-                zeroCount++;
-            }
-            // Shrink window if zero count exceeds k
-            while (zeroCount > k) {
-                if (nums[left] == 0) {
-                    zeroCount--;
+        int n = nums.size();
+        int flips = 0;
+        int maxlen = INT_MIN;
+        int len;
+        int i=0,j=0;
+        while(j<n){
+            if(nums[j]==1)  j++;
+            else{
+                if(flips<k){
+                    flips++;
+                    j++;
                 }
-                left++;
+                else{   //flips==k
+                    len = j-i;
+                    maxlen = max(maxlen,len);
+                    while(nums[i]==1)   i++;
+                    i++;
+                    j++;
+                }
             }
-            // Window [left, right] is valid here
-            maxLen = max(maxLen, right - left + 1);
+           
         }
-        return maxLen;
+        len = j-i;
+        maxlen = max(maxlen,len);
+        return maxlen;
     }
 };
