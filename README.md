@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RiteshRaikwar8953/DSA/tree/master/0204-count-primes) |
+| [0650-2-keys-keyboard](https://github.com/RiteshRaikwar8953/DSA/tree/master/0650-2-keys-keyboard) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RiteshRaikwar8953/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Enumeration
 |  |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RiteshRaikwar8953/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/RiteshRaikwar8953/DSA/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
