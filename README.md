@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RiteshRaikwar8953/DSA/tree/master/0204-count-primes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/RiteshRaikwar8953/DSA/tree/master/1030-matrix-cells-in-distance-order) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RiteshRaikwar8953/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Math
 |  |
@@ -12,6 +13,7 @@
 | [0204-count-primes](https://github.com/RiteshRaikwar8953/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/RiteshRaikwar8953/DSA/tree/master/0263-ugly-number) |
 | [0650-2-keys-keyboard](https://github.com/RiteshRaikwar8953/DSA/tree/master/0650-2-keys-keyboard) |
+| [1030-matrix-cells-in-distance-order](https://github.com/RiteshRaikwar8953/DSA/tree/master/1030-matrix-cells-in-distance-order) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RiteshRaikwar8953/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Enumeration
 |  |
@@ -57,4 +59,16 @@
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/RiteshRaikwar8953/DSA/tree/master/0650-2-keys-keyboard) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/RiteshRaikwar8953/DSA/tree/master/1030-matrix-cells-in-distance-order) |
+## Sorting
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/RiteshRaikwar8953/DSA/tree/master/1030-matrix-cells-in-distance-order) |
+## Matrix
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/RiteshRaikwar8953/DSA/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
