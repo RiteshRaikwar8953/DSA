@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RiteshRaikwar8953/DSA/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RiteshRaikwar8953/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/RiteshRaikwar8953/DSA/tree/master/1030-matrix-cells-in-distance-order) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RiteshRaikwar8953/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Math
@@ -70,5 +71,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/RiteshRaikwar8953/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/RiteshRaikwar8953/DSA/tree/master/1030-matrix-cells-in-distance-order) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/RiteshRaikwar8953/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/RiteshRaikwar8953/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
