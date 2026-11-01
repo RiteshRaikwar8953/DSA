@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RiteshRaikwar8953/DSA/tree/master/0037-sudoku-solver) |
 | [0204-count-primes](https://github.com/RiteshRaikwar8953/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiteshRaikwar8953/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/RiteshRaikwar8953/DSA/tree/master/1030-matrix-cells-in-distance-order) |
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RiteshRaikwar8953/DSA/tree/master/0037-sudoku-solver) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RiteshRaikwar8953/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Factorization
 |  |
@@ -71,6 +73,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RiteshRaikwar8953/DSA/tree/master/0037-sudoku-solver) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiteshRaikwar8953/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/RiteshRaikwar8953/DSA/tree/master/1030-matrix-cells-in-distance-order) |
 ## Binary Search
@@ -81,4 +84,16 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiteshRaikwar8953/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/RiteshRaikwar8953/DSA/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/RiteshRaikwar8953/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/RiteshRaikwar8953/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
