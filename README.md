@@ -85,6 +85,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/RiteshRaikwar8953/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiteshRaikwar8953/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
 |  |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/RiteshRaikwar8953/DSA/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/RiteshRaikwar8953/DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
