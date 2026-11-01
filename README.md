@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RiteshRaikwar8953/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/RiteshRaikwar8953/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RiteshRaikwar8953/DSA/tree/master/0263-ugly-number) |
 | [0650-2-keys-keyboard](https://github.com/RiteshRaikwar8953/DSA/tree/master/0650-2-keys-keyboard) |
 | [1030-matrix-cells-in-distance-order](https://github.com/RiteshRaikwar8953/DSA/tree/master/1030-matrix-cells-in-distance-order) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RiteshRaikwar8953/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/RiteshRaikwar8953/DSA/tree/master/0258-add-digits) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RiteshRaikwar8953/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Primality Test
 |  |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/RiteshRaikwar8953/DSA/tree/master/0037-sudoku-solver) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RiteshRaikwar8953/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
