@@ -2,13 +2,15 @@
 
 Welcome to my DSA repository! This repo contains my accepted solutions to LeetCode problems, primarily implemented in C++.
 
-🛠️ Languages & Core Topics Covered
+##🛠️ Languages & Core Topics Covered
 - *Primary Language:* C++ (STL)
 - *Key Topics:* Arrays, Matrix Manipulation, Binary Search, Two Pointers, Bit Manipulation, Backtracking, Sliding Window, and Mathematics.
 
-🔗 Connect & Profiles
+##🔗 Connect & Profiles
 - **LeetCode:** [Ritesh_Raikwar](https://leetcode.com/u/Ritesh_Raikwar/)
 - **LinkedIn:** [Ritesh Raikwar](https://www.linkedin.com/in/ritesh-raikwar-26728b27a/)
+
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Ritesh_Raikwar?theme=dark&font=Karma&ext=heatmap)
 
 # LeetCode Topics
 ## Array
