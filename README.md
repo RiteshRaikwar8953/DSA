@@ -8,7 +8,7 @@ Welcome to my DSA repository! This repo contains my accepted solutions to LeetCo
 
 🔗 Connect & Profiles
 - **LeetCode:** [Ritesh_Raikwar](https://leetcode.com/u/Ritesh_Raikwar/)
-- **LinkedIn:** [Ritesh Raikwar](www.linkedin.com/in/ritesh-raikwar-26728b27a)
+- **LinkedIn:** [Ritesh Raikwar](https://www.linkedin.com/in/ritesh-raikwar-26728b27a/)
 
 # LeetCode Topics
 ## Array
